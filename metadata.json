@@ -1,0 +1,6 @@
+{
+  "name": "DockSlot - Dock & Delivery Slot Management",
+  "description": "Sistem Monitoring & Antrean Bongkar Muat Pabrik kolaboratif untuk 5 peran: Admin, Purchasing, PPIC, Supplier, dan Warehouse.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
